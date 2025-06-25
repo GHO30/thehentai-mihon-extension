@@ -3,7 +3,8 @@ plugins {
     id 'kotlin-android'
 }
 
-android {namespace
+android {
+namespace
 'eu.kanade.tachiyomi.extension.pt.thehentai'
     compileSdk 33
 
