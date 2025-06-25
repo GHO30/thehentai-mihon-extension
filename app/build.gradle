@@ -5,7 +5,7 @@ plugins {
 
 android {
 namespace
-'eu.kanade.tachiyomi.extension.pt.thehentai'
+'eu.kanade.Mihon.extension.pt.thehentai'
     compileSdk 33
 
     defaultConfig {
